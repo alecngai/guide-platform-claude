@@ -1,6 +1,6 @@
 {
   "name": "guide-platform",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Connect Claude to Guide Platform: your kid list, what is done each week, and your notes.",
   "author": {
     "name": "Guide Platform"
