@@ -1,0 +1,16 @@
+{
+  "name": "guide-platform-plugins",
+  "owner": {
+    "name": "Guide Platform"
+  },
+  "plugins": [
+    {
+      "name": "guide-platform",
+      "source": "./plugins/guide-platform",
+      "description": "Connect Claude to Guide Platform: your kid list, what is done each week, and your notes."
+    }
+  ],
+  "metadata": {
+    "description": "Guide Platform for Claude: connect once, then ask about your kids and your notes."
+  }
+}
